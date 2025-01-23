@@ -31,7 +31,7 @@ One of the successful outcomes was the re-development of the Research Engine. Th
 
 The goal was that Research Engine 2.0 would act as the foundation platform for ongoing research and data-driven solutions. A key component of Research Engine 2.0 analytics pipeline was data collection and preprocessing. The team developed methodologies which ensured a continuous flow of data for analysis. We achieved a breakthrough moment when we obtained enough data to generate statistically significant time trends and insights.
 
-Another important milestone was the prototyping of a legal chatbot, named "RBot". RBot is a notable innovation, taking advantage of the growing Generative AI technologies. The goal of the chatbot is to direct Reddit users to useful and relevant legal information which already exists on the websites in BC. As a demonstration of public validation and excitement towards the lab work, a scaled-down version of this RBot prototype, called ‘AC Companion’, has secured first prize at the Amici Curiae Festival of Dangerous Ideas in December 2023.
+Another important milestone was the prototyping of a legal chatbot, named "RBot". RBot is a notable innovation, taking advantage of the growing Generative AI technologies. The goal of the chatbot is to direct Reddit users to useful and relevant legal information which already exists on the websites in BC. As a demonstration of public validation and excitement towards the lab work, a scaled-down version of this RBot prototype, called ‘AC Companion’, has secured first prize at the *Amici Curiae Festival of Dangerous Ideas* in December 2023.
 
 ---
 
