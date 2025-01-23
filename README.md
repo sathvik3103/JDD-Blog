@@ -1,7 +1,7 @@
 ## Behind the Scenes: The JDD Lab’s Breakthroughs in 2023-24
-
+<div style="text-align: justify;">
 The Justice Data and Design (JDD) Lab, was set up with a goal to improve *“Access to Justice”* for the residents of British Columbia. To achieve this, the lab took an interdisciplinary approach, combining data science with legal expertise to better understand the legal problems which most British Columbians are having and what help they are asking for. Research showed that most people primarily seek legal help through online platforms and personal networks (family/friends). By focusing on analyzing social media content we aimed to identify everyday legal issues people discuss online and use data-driven insights to develop effective solutions to help them. The lab bridged the data gap in traditional legal research using new tools, and thus showcases how data science can be used to drive impactful and real-world innovation.
-
+</div>
 
 ## **Discovery and Ideation Phases**
 
