@@ -51,4 +51,7 @@ We extend our deepest gratitude to Mitacs and the Law Foundation of British Colu
 
 
 **Co-authored by:**  
-[Alex Li](https://www.linkedin.com/in/xiang-alex-li-b957ab14a/), [Anuinder Sekhon](https://www.linkedin.com/in/anuinder-sekhon/), [Hitasha Ghai](http://linkedin.com/in/hitasha-ghai-95755621b), [Sathvik Divili](https://www.linkedin.com/in/sathvik-divili/)
+[Alex Li](https://www.linkedin.com/in/xiang-alex-li-b957ab14a/), 
+[Anuinder Sekhon](https://www.linkedin.com/in/anuinder-sekhon/), 
+[Hitasha Ghai](http://linkedin.com/in/hitasha-ghai-95755621b), 
+[Sathvik Divili](https://www.linkedin.com/in/sathvik-divili/)
