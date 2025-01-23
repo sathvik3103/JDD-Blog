@@ -67,4 +67,4 @@ Working within an interdisciplinary team at the JDD Lab emphasized the importanc
 The JDD Lab extends its deepest gratitude to **Mitacs** and the **Law Foundation of British Columbia** for funding this initiative. Special thanks go to **Kate Gower**, lab director at JDD, for her trust in this project and providing opportunities to make an impact in improving access to justice.
 
 **Co-authored by:**  
-Alex Li [], Anuinder Sekhon, Hitasha Ghai, Sathvik Divili [! https://www.linkedin.com/in/sathvik-divili/]
+Alex Li [], Anuinder Sekhon, Hitasha Ghai, Sathvik Divili [https://www.linkedin.com/in/sathvik-divili/]
